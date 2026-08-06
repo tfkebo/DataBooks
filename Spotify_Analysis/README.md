@@ -18,7 +18,7 @@ To understand how features like danceability, energy, and tempo relate to song p
 ## Files
 
 spotify-analysis/
-├── data/
+-data/
 ├── spotify_analysis.ipynb
-└── README.md
+-README.md
 
